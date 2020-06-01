@@ -1,3 +1,3 @@
 # mySite
 my private website
-Aangepast door githubtest2 na conflict
+Aangepast door test1 in tak 1
